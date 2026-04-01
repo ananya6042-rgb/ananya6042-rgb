@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there!+I'm+Ananya+Gupta+✨;Data+Explorer+%7C+B.Tech+%2028)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there!+I'm+Ananya+Gupta+✨;Data+Explorer+%7C+B.Tech+%2727)](https://git.io/typing-svg)
 
 <!-- Visitor Counter -->
 [![](https://visitcount.itsvg.in/api?id=GiniVerse&icon=6&color=6)](https://visitcount.itsvg.in)
@@ -21,7 +21,7 @@ class Ananya:
     name       = "Ananya Gupta"
     alias      = "GiniVerse"
     college    = "Pranveer Singh Institute of Technology"
-    degree     = "B.Tech CSE — 2nd Year (Class of 2028)"
+    degree     = "B.Tech CSE — 2nd Year (Class of 2027)"
     fun_fact   = "I think in spreadsheets and dream in Python loops 🐍"
 ```
 
@@ -40,18 +40,16 @@ class Ananya:
 
 ## 🏅 Certifications — Scroll of Achievements
 
-> 📁 All certificate PDFs live in my [`my-certificates`](https://github.com/GiniVerse/my-certificates) repo — click any badge to verify!
+> 📁 All certificate PDFs live in my [`certificates`](https://github.com/ananya6042-rgb/certificates) repo — click any badge to verify!
 
 | # | Certificate | Issuer | Date | Verify |
 |---|-------------|--------|------|--------|
-| 🥇 | Programming Fundamentals using Python — Part 1 | Infosys Springboard | Oct 2025 | [![View](https://img.shields.io/badge/View-PDF-blue?style=flat-square)](https://github.com/GiniVerse/my-certificates/blob/main/infosys-python-part1.pdf) |
-| 🥇 | Programming Fundamentals using Python — Part 2 | Infosys Springboard | Nov 2025 | [![View](https://img.shields.io/badge/View-PDF-blue?style=flat-square)](https://github.com/GiniVerse/my-certificates/blob/main/infosys-python-part2.pdf) |
-| 🥈 | Introduction to NumPy | Simplilearn SkillUP | Oct 2025 | [![View](https://img.shields.io/badge/View-PDF-orange?style=flat-square)](https://github.com/GiniVerse/my-certificates/blob/main/numpy-simplilearn.pdf) |
-| 🥈 | Data Analysis Learning Badge | Microsoft Learn | 2025 | [![View](https://img.shields.io/badge/View-Badge-green?style=flat-square)](https://github.com/GiniVerse/my-certificates/blob/main/microsoft-data-analysis.pdf) |
-| 🥈 | Cloud Skills — Intro to Cloud | Microsoft Azure | 2025 | [![View](https://img.shields.io/badge/View-Badge-green?style=flat-square)](https://github.com/GiniVerse/my-certificates/blob/main/microsoft-cloud-skills.pdf) |
-| 🤖 | Introduction to Generative AI | Google Cloud / Coursera | 2025 | [![View](https://img.shields.io/badge/View-PDF-yellow?style=flat-square)](https://github.com/GiniVerse/my-certificates/blob/main/google-genai.pdf) |
-| 📊 | Data Analyst Learning Path | Microsoft Learn | 2025 | [![View](https://img.shields.io/badge/View-Badge-green?style=flat-square)](https://github.com/GiniVerse/my-certificates/blob/main/microsoft-data-analyst-path.pdf) |
-| ⚡ | Next-Gen AI Workshop Certificate | Workshop | 2025 | [![View](https://img.shields.io/badge/View-PDF-purple?style=flat-square)](https://github.com/GiniVerse/my-certificates/blob/main/nextgen-ai-workshop.pdf) |
+| 🥇 | Programming Fundamentals using Python — Part 1 | Infosys Springboard | Oct 2025 | [![View](https://img.shields.io/badge/View-PDF-blue?style=flat-square)](https://github.com/ananya6042-rgb/certificates/blob/main/PYTHON%20CERTIFICATE.pdf) |
+| 🥇 | Programming Fundamentals using Python — Part 2 | Infosys Springboard | Nov 2025 | [![View](https://img.shields.io/badge/View-PDF-blue?style=flat-square)](https://github.com/ananya6042-rgb/certificates/blob/main/PYTHON%20PART2.pdf) |
+| 🥈 | Introduction to NumPy | Simplilearn SkillUP | Oct 2025 | [![View](https://img.shields.io/badge/View-PDF-orange?style=flat-square)](https://github.com/ananya6042-rgb/certificates/blob/main/NUMPY%20CERTIFICATE.pdf) |
+| 🥈 | Data Analysis Learning Badge | Microsoft Learn | 2025 | [![View](https://img.shields.io/badge/View-Badge-green?style=flat-square)](https://github.com/ananya6042-rgb/certificates/blob/main/MICROSOFT%20Data%20Analysis.pdf) |
+| 🥈 | Cloud Skills — Intro to Cloud | Microsoft Azure | 2025 | [![View](https://img.shields.io/badge/View-Badge-green?style=flat-square)](https://github.com/ananya6042-rgb/certificates/blob/main/CLOUD%20COMPUTING.pdf) |
+| 🤖 | Introduction to Generative AI | Google Cloud / Coursera | 2025 | [![View](https://img.shields.io/badge/View-Image-yellow?style=flat-square)](https://github.com/ananya6042-rgb/certificates/blob/main/GenAI.jpeg) |
 
 ---
 
