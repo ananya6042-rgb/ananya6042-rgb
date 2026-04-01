@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there!+I'm+Ananya+Gupta+✨;Data+Explorer+%7C+B.Tech+%2727)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there!+I'm+Ananya+Gupta+✨;Data+Explorer+%7C+B.Tech+%2028)](https://git.io/typing-svg)
 
 <!-- Visitor Counter -->
 [![](https://visitcount.itsvg.in/api?id=GiniVerse&icon=6&color=6)](https://visitcount.itsvg.in)
@@ -21,7 +21,7 @@ class Ananya:
     name       = "Ananya Gupta"
     alias      = "GiniVerse"
     college    = "Pranveer Singh Institute of Technology"
-    degree     = "B.Tech CSE — 2nd Year (Class of 2027)"
+    degree     = "B.Tech CSE — 2nd Year (Class of 2028)"
     fun_fact   = "I think in spreadsheets and dream in Python loops 🐍"
 ```
 
